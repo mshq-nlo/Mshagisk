@@ -23,12 +23,12 @@
     <string name="home_support_title">Support Us</string>
     <string name="home_follow_title">Follow Us</string>
     <string name="home_item_source">Source</string>
-    <string name="home_support_content">Magisk is, and always will be, free, and open source. However, you can show us that you care by making a donation.</string>
+    <string name="home_support_content">Mshagisk is, and always will be, free, and open source. However, you can show us that you care by making a donation.</string>
     <string name="home_installed_version">Installed</string>
     <string name="home_latest_version">Latest</string>
     <string name="invalid_update_channel">Invalid update channel</string>
-    <string name="uninstall_magisk_title">Uninstall Magisk</string>
-    <string name="uninstall_magisk_msg">All modules will be disabled/removed!\nRoot will be removed!\nAny internal storage unencrypted through the use of Magisk will be re-encrypted!</string>
+    <string name="uninstall_magisk_title">Uninstall Mshagisk</string>
+    <string name="uninstall_magisk_msg">All modules will be disabled/removed!\nRoot will be removed!\nAny internal storage unencrypted through the use of Mshagisk will be re-encrypted!</string>
 
     <!--Install-->
     <string name="keep_force_encryption">Preserve force encryption</string>
@@ -50,7 +50,7 @@
 
     <!--Superuser-->
     <string name="su_request_title">Superuser request</string>
-    <string name="touch_filtered_warning">Because an app is obscuring a Superuser request, Magisk can\'t verify your response.</string>
+    <string name="touch_filtered_warning">Because an app is obscuring a Superuser request, Mshagisk can\'t verify your response.</string>
     <string name="deny">Deny</string>
     <string name="prompt">Prompt</string>
     <string name="restrict">Restrict</string>
@@ -80,7 +80,7 @@
 
     <!--Logs-->
     <string name="log_data_none">You\'re log-free. Try using your root apps more.</string>
-    <string name="log_data_magisk_none">Magisk logs are empty, that\'s weird.</string>
+    <string name="log_data_magisk_none">Mshagisk logs are empty, that\'s weird.</string>
     <string name="menuSaveLog">Save log</string>
     <string name="menuClearLog">Clear log now</string>
     <string name="logs_cleared">Log successfully cleared</string>
@@ -125,9 +125,9 @@
     <string name="settings_dark_mode_dark">Always dark</string>
     <string name="settings_download_path_title">Download path</string>
     <string name="settings_download_path_message">Files will be saved to %1$s</string>
-    <string name="settings_hide_app_title">Hide the Magisk app</string>
+    <string name="settings_hide_app_title">Hide the Mshagisk app</string>
     <string name="settings_hide_app_summary">Install a proxy app with a random package ID and custom app label</string>
-    <string name="settings_restore_app_title">Restore the Magisk app</string>
+    <string name="settings_restore_app_title">Restore the Mshagisk app</string>
     <string name="settings_restore_app_summary">Unhide the app and restore the original APK</string>
     <string name="language">Language</string>
     <string name="system_default">(System default)</string>
@@ -139,9 +139,9 @@
     <string name="settings_update_debug">Debug</string>
     <string name="settings_update_custom">Custom</string>
     <string name="settings_update_custom_msg">Insert a custom channel URL</string>
-    <string name="settings_zygisk_summary">Run parts of Magisk in the Zygote daemon</string>
+    <string name="settings_zygisk_summary">Run parts of Mshagisk in the Zygote daemon</string>
     <string name="settings_denylist_title">Enforce DenyList</string>
-    <string name="settings_denylist_summary">Processes on the denylist will have all Magisk modifications reverted</string>
+    <string name="settings_denylist_summary">Processes on the denylist will have all Mshagisk modifications reverted</string>
     <string name="settings_denylist_config_title">Configure DenyList</string>
     <string name="settings_denylist_config_summary">Select the processes to be included on the denylist</string>
     <string name="settings_hosts_title">Systemless hosts</string>
@@ -195,13 +195,13 @@
     <string name="isolate_summary">Each root session will have its own isolated namespace</string>
 
     <!--Notifications-->
-    <string name="update_channel">Magisk updates</string>
+    <string name="update_channel">Mshagisk updates</string>
     <string name="progress_channel">Progress notifications</string>
     <string name="updated_channel">Update complete</string>
     <string name="download_complete">Download complete</string>
     <string name="download_file_error">Error downloading file</string>
-    <string name="magisk_update_title">Magisk update available!</string>
-    <string name="updated_title">Magisk updated</string>
+    <string name="magisk_update_title">Mshagisk update available!</string>
+    <string name="updated_title">Mshagisk updated</string>
     <string name="updated_text">Tap to open app</string>
 
     <!--Toasts, Dialogs-->
